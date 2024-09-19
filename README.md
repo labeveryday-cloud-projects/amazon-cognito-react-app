@@ -45,11 +45,11 @@ The primary purpose of this application is to serve as a boilerplate or learning
 ## Installation
 1. Clone the repository:
    ```
-   git clone [your-repository-url]
+   git clone https://github.com/labeveryday-cloud-projects/amazon-cognito-react-app.git
    ```
 2. Navigate to the project directory:
    ```
-   cd [your-project-name]
+   cd amazon-cognito-react-app
    ```
 3. Install dependencies:
    ```
